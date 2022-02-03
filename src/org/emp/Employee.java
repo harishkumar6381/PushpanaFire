@@ -10,4 +10,7 @@ public class Employee {
     public void empName() {
         System.out.println("employee name is bala");	
 }
+    public static void main(String[] args) {
+		System.out.println("qwertyu");
+	}
 }
